@@ -10,11 +10,11 @@ To create the database tables and run the ETL pipeline, you must run the followi
 
 To create tables:
 ```bash
-python3 create_tables.py
+run create_tables.py
 ```
 To fill tables via ETL:
 ```bash
-python3 etl.py
+run etl.py
 ```
 
 # Files in the repository
